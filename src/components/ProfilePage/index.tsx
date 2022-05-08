@@ -24,7 +24,7 @@ const ProfilePage: React.FC = () => {
         <h1>Caique Moraes</h1>
         <h2>@caique_moraes</h2>
         <p>
-          Developer at Compass UOL <a href="#">compass UOL</a>
+          Developer at Compass UOL <a href="/">compass UOL</a>
         </p>
         <ul>
           <li>
